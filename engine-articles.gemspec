@@ -6,8 +6,8 @@ Gem::Specification.new do |spec|
   spec.authors     = ["Mike Kelly"]
   spec.email       = ["kellysystemsrepair@gmail.com"]
   #spec.homepage    = "TODO"
-  #spec.summary     = "TODO: Summary of Engine::Articles."
-  #spec.description = "TODO: Description of Engine::Articles."
+  spec.summary     = "A test rails engine to add articles to a rails project."
+  spec.description = spec.summary
     spec.license     = "MIT"
   
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the "allowed_push_host"
